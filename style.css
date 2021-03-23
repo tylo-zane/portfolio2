@@ -24,13 +24,18 @@ ul {
     flex-direction: row;
 }
 
+.project {
+    display:flex;
+    justify-content: space-between;
+}
+
 /* TYPOGRAPHY */
 
-p, li, h1, h2 {
+p, li, h1, h2, h3 {
     font-family: 'Comfortaa';
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-weight: normal;
 }
 
