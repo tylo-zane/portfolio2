@@ -4,22 +4,48 @@
 /* CONTENT AREAS */
 
 body {
-    width: 85vw;
+    width: 85%;
     margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+main {
+    margin-top: 5em;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
 }
 
 /* TYPOGRAPHY */
 
-p, h2 {
+p, li, h1, h2 {
     font-family: 'Comfortaa';
 }
 
+h1, h2 {
+    font-weight: normal;
+}
+
 h1 {
-    font-family: Cinzel Decorative;
     margin-bottom: 0;
     margin-top: 2em;
 }
 
 h2 {
     margin-top: 0.5em;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
