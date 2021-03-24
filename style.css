@@ -27,6 +27,7 @@ ul {
 .project {
     display:flex;
     justify-content: space-between;
+    margin-bottom: 4em;
 }
 
 /* TYPOGRAPHY */
@@ -40,17 +41,34 @@ h1, h2, h3 {
 }
 
 h1 {
+    font-size: 1.5em;
     margin-bottom: 0;
     margin-top: 2em;
 }
 
 h2 {
+    font-size: 1.25em;
     margin-top: 0.5em;
 }
 
-li a {
+h3, a {
+    color: #ff5978;
+}
+
+h3 {
+
+}
+
+.desc {
+    width: 66%;
+}
+
+a {
     text-decoration: none;
-    font-size: 1.5em;
+}
+
+li a {
+    font-size: 1.25em;
     margin-right: 1em;
     margin-bottom: 1em;
 }
