@@ -27,7 +27,7 @@ ul {
     display:flex;
     justify-content: space-between;
     margin-top: 2em;
-    margin-bottom: 4em;
+    margin-bottom: 5em;
 }
 
 img {
@@ -64,12 +64,12 @@ h3 {
     font-weight: 600;
 }
 
-p {
-    color: #404040;
-}
-
 .desc {
     width: 66%;
+}
+
+p {
+    color: #505050;
 }
 
 a {
