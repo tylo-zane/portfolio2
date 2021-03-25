@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
 
 /* CONTENT AREAS */
 
@@ -38,10 +38,14 @@ img {
 /* TYPOGRAPHY */
 
 p, li, h1, h2, h3 {
-    font-family: 'Comfortaa';
+    font-family: 'Nunito';
 }
 
-h1, h2, h3 {
+h1, h2, a {
+    color: #383838;
+}
+
+h1, h2 {
     font-weight: normal;
 }
 
@@ -56,13 +60,20 @@ h2 {
     margin-top: 0.5em;
 }
 
+h3 {
+    font-weight: 600;
+}
+
+p {
+    color: #404040;
+}
+
 .desc {
     width: 66%;
 }
 
 a {
     text-decoration: none;
-    color: black;
 }
 
 li a {
