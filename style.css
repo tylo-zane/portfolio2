@@ -17,6 +17,13 @@ main {
     margin-top: 7em;
 }
 
+footer {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    font-size: 10pt;
+    border-top: 1px solid #F5F5F5;
+}
+
 ul {
     list-style: none;
     display: flex;
