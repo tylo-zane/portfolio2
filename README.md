@@ -4,6 +4,6 @@
 
 Showcased works include:
 
-##1. Activity Manager
-##2. Hiking Buddy
-##3. Other
+## 1. Activity Manager
+## 2. Hiking Buddy
+## 3. Other
