@@ -42,6 +42,22 @@ img {
     height: auto;
   }
 
+.case-study {
+    display: flex;
+    flex-direction: row;
+}
+
+.quick-ref ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.quick-ref {
+    position: sticky;
+    width: 25%;
+}
+
 /* TYPOGRAPHY */
 
 p, li, h1, h2, h3 {
