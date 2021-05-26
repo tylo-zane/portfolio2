@@ -69,6 +69,11 @@ img {
     width: 66%;
 }
 
+.half {
+    width: 50%;
+    margin-left: 25%;
+}
+
 .reg-list {
     list-style-type: square;
 }
