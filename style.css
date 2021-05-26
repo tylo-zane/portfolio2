@@ -42,25 +42,40 @@ img {
     height: auto;
   }
 
+
+/* CASE STUDY ELEMENTS */
+
 .case-study {
     display: flex;
     flex-direction: row;
+    margin-top: 2em;
 }
 
-.quick-ref ul {
-    list-style: none;
+.case-study ul {
     display: flex;
     flex-direction: column;
 }
 
+.quick-ref ul {
+    padding-left: 0;
+    list-style: none;
+}
+
 .quick-ref {
+    position: -webkit-sticky; /* for Safari */
     position: sticky;
-    width: 25%;
+    top: 0;
+     align-self: flex-start; 
+    width: 66%;
+}
+
+.reg-list {
+    list-style-type: square;
 }
 
 /* TYPOGRAPHY */
 
-p, li, h1, h2, h3 {
+p, li, h1, h2, h3, h4 {
     font-family: 'Nunito';
 }
 
