@@ -59,6 +59,7 @@ img {
 .quick-ref ul {
     padding-left: 0;
     list-style: none;
+    padding-right: 2em;
 }
 
 .quick-ref {
@@ -67,6 +68,18 @@ img {
     top: 0;
      align-self: flex-start; 
     width: 66%;
+}
+
+.side {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 2.5em;
+}
+
+.side img {
+    width: 25vw;
+    height: 100%;
 }
 
 .half {
@@ -125,6 +138,21 @@ li a {
     margin-bottom: 1em;
 }
 
-h3, .project a {
+h3, .project a, .blue {
     color: #00A1AF;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .quick-ref {
+        display: none;
+    }
+
+    .side {
+        flex-direction: column;
+    }
+
+    .side img {
+        width: 50vw;
+    }
 }
