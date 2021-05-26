@@ -5,5 +5,11 @@
 Showcased works include:
 
 ## Activity Manager
+
+An Android application. Mitigates the deceptive design and unnecessary hurdles put into place by Google's My Activity tool.
+
 ## Hiking Buddy
+
+A phone app which ensures the safety of solo women travelers by matching them with potential hiking companions.
+
 ## Miscellaneous
