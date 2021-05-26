@@ -13,3 +13,5 @@ An Android application. Mitigates the deceptive design and unnecessary hurdles p
 A phone app which ensures the safety of solo women travelers by matching them with potential hiking companions.
 
 ## Miscellaneous
+
+Miscellaneous side projects, including an online choose-your-own adventure game and unofficial Pokemon Deck Builder.
