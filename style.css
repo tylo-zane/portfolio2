@@ -91,6 +91,10 @@ img {
     list-style-type: square;
 }
 
+.misc {
+    padding: 2.5em;   
+}
+
 /* TYPOGRAPHY */
 
 p, li, h1, h2, h3, h4 {
@@ -154,5 +158,9 @@ h3, .project a, .blue {
 
     .side img {
         width: 50vw;
+    }
+
+    #misc-preview {
+        padding-bottom: 3em;
     }
 }

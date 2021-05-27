@@ -6,7 +6,7 @@ Showcased works include:
 
 ## Activity Manager
 
-An Android application. Mitigates the deceptive design and unnecessary hurdles put into place by Google's My Activity tool.
+A phone app which mitigates the deceptive design and unnecessary hurdles put into place by Google's My Activity tool.
 
 ## Hiking Buddy
 
