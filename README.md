@@ -1,4 +1,4 @@
-# Tyler Marcinyshyn - Portfolio
+# Zane Marcinyshyn - Portfolio
 
 *Work-in-progress version will [go live here](https://tylo-zane.github.io/portfolio2/).*
 
