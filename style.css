@@ -66,7 +66,7 @@ img {
     position: -webkit-sticky; /* for Safari */
     position: sticky;
     top: 0;
-     align-self: flex-start; 
+    align-self: flex-start; 
     width: 66%;
 }
 
@@ -144,6 +144,10 @@ li a {
 
 h3, .project a, .blue {
     color: #00A1AF;
+}
+
+.quick-ref a {
+    font-size: 12pt;
 }
 
 @media only screen and (max-width: 768px) {
